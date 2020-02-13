@@ -1,5 +1,2 @@
-Mahad
-# This is an <h1> header, which is the largest
-## This is an <h2> header
-###### This is an <h6> header, which is the smallest
-![Image of Alohan Raichu](https://pokemondb.net/pokedex/raichu.png)
+
+![Image of Alohan Raichu](https://img.pokemondb.net/sprites/sun-moon/normal/raichu-alolan.png)
