@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of Raichu](https://img.pokemondb.net/sprites/sun-moon/normal/raichu-alolan.png)
